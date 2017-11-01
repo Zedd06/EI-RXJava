@@ -1,0 +1,5 @@
+
+*.ini
+
+.metadata/.lock
+.metadata
